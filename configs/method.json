@@ -1,0 +1,14 @@
+{
+  "categories": [
+    "uncertainty_compute"
+  ],
+  "entrypoint": "my_harness.py",
+  "horizon": "220 controlled Spatial actions, 1.0x; reset settling recorded separately.",
+  "models": [
+    "SemyonXu616/VGAS-5-shot at f23261d42938662851e438cee6e25b2ceaa05ceb; frozen SmolVLA proposal policy and released pretrained critic.",
+    "No critic or policy training is performed by this repository."
+  ],
+  "paid_api_calls_required": 0,
+  "scope": "Matched completed LIBERO-Spatial episodes from a user-stopped partial campaign; no Object/Goal/Long evaluation is included.",
+  "trainable_parameters": 0
+}

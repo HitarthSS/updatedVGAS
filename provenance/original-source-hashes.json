@@ -1,0 +1,50 @@
+{
+  "note": "Source collection hashes; exported locations may differ. Core algorithms are copied without behavior changes.",
+  "source_files": [
+    {
+      "bytes": 3776,
+      "file": "my_harness.py",
+      "sha256": "9bf8c52f8150c766fdd1b4a7a091251c86a557f625325d681af343f6162e093d"
+    },
+    {
+      "bytes": 11845,
+      "file": "paired_campaign.py",
+      "sha256": "573c053f39c0efb3d37bf8aa34f392e9ed66410cbac2c9c75530cce6cb048733"
+    },
+    {
+      "bytes": 690,
+      "file": "reset_repair.py",
+      "sha256": "4f226c379ee8d00de178b96856543e4e3a6694dcae82a00fc8a893c2f552cee8"
+    },
+    {
+      "bytes": 942,
+      "file": "audit_runtime.py",
+      "sha256": "6a1597a8f06f05eaf0bc71c8ac0c45b9037b634b5ebc45ce3f43deae9ea5e568"
+    },
+    {
+      "bytes": 1142,
+      "file": "preflight.py",
+      "sha256": "4c360706b78cde968aa4357d571d5f47f9ea2ed993258bff4b2a2f7cf3108ed5"
+    },
+    {
+      "bytes": 3188,
+      "file": "validate_equivalence.py",
+      "sha256": "41fbff345db5e4d882254b4f7deae9404606d355a5d995ead78dade235de5c2e"
+    },
+    {
+      "bytes": 3935,
+      "file": "report_results.py",
+      "sha256": "331d724fd5a7cfef2183cd35f02b476588187f7bd10c1b2ef7f9f8670c590462"
+    },
+    {
+      "bytes": 2891,
+      "file": "pip-freeze.txt",
+      "sha256": "458717b654cc6a2b2d369cbaeafb543228bf2895fcab04a31acfcbda7a57b887"
+    },
+    {
+      "bytes": 1065,
+      "file": "licenses/UPSTREAM-LICENSE",
+      "sha256": "01e3e6fc65e13eb229a8d95087fd73a484bec35500993e7a2791323a3d7ecfe4"
+    }
+  ]
+}

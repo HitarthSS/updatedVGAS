@@ -1,0 +1,17 @@
+{
+  "authors_harness": "1,326/2,550 (52.00%)",
+  "categories": [
+    "uncertainty_compute"
+  ],
+  "full_paper_reproduction": false,
+  "horizon": "220 controlled Spatial actions, 1.0x; reset settling recorded separately.",
+  "limitations": [
+    "Slightly lower success, with 5,121.70 versus 2,483.55 recorded policy seconds. Shared-GPU timing is descriptive.",
+    "The campaign is incomplete; these are not the full four-suite results.",
+    "BF16 batch kernels cause numerical differences; this optimization is not bitwise equivalent.",
+    "Common initial-state/reset repairs and changed batch size prevent exact source-protocol replication."
+  ],
+  "my_harness": "1,320/2,550 (51.76%)",
+  "paper_reference": "Spatial 56.2%; four-suite aggregate 49.0%",
+  "scope": "Matched completed LIBERO-Spatial episodes from a user-stopped partial campaign; no Object/Goal/Long evaluation is included."
+}

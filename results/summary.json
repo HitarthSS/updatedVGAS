@@ -1,0 +1,186 @@
+{
+  "matched": {
+    "authors": {
+      "binomial_wilson_95": [
+        0.5005934784344641,
+        0.5393463540276111
+      ],
+      "episodes": 2550,
+      "external_api_calls": 0,
+      "external_api_tokens": 0,
+      "horizon_violations": 0,
+      "policy_seconds": 5121.700436494779,
+      "simulator_seconds": 11097.069612073246,
+      "success_rate": 0.52,
+      "successes": 1326,
+      "vlm_input_valid_tokens": 35688465,
+      "vlm_prefix_calls": 10858,
+      "vlm_prefix_rows": 244305,
+      "wall_seconds": 28043.200055138674
+    },
+    "authors_only_wins": 300,
+    "bootstrap_clusters": 10,
+    "my_harness": {
+      "binomial_wilson_95": [
+        0.4982406437271867,
+        0.5370003849158209
+      ],
+      "episodes": 2550,
+      "external_api_calls": 0,
+      "external_api_tokens": 0,
+      "horizon_violations": 0,
+      "policy_seconds": 2483.5511736441404,
+      "simulator_seconds": 11231.388524032664,
+      "success_rate": 0.5176470588235295,
+      "successes": 1320,
+      "vlm_input_valid_tokens": 7987490,
+      "vlm_prefix_calls": 10936,
+      "vlm_prefix_rows": 54680,
+      "wall_seconds": 25553.50070823403
+    },
+    "my_only_wins": 294,
+    "success_rate_difference_my_minus_authors": -0.002352941176470588,
+    "task_cluster_bootstrap_95": [
+      -0.02431372549019608,
+      0.016923076923076923
+    ]
+  },
+  "per_suite": {
+    "libero_10": {
+      "authors": {
+        "binomial_wilson_95": null,
+        "episodes": 0,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 0,
+        "simulator_seconds": 0,
+        "success_rate": null,
+        "successes": 0,
+        "vlm_input_valid_tokens": 0,
+        "vlm_prefix_calls": 0,
+        "vlm_prefix_rows": 0,
+        "wall_seconds": 0
+      },
+      "my_harness": {
+        "binomial_wilson_95": null,
+        "episodes": 0,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 0,
+        "simulator_seconds": 0,
+        "success_rate": null,
+        "successes": 0,
+        "vlm_input_valid_tokens": 0,
+        "vlm_prefix_calls": 0,
+        "vlm_prefix_rows": 0,
+        "wall_seconds": 0
+      }
+    },
+    "libero_goal": {
+      "authors": {
+        "binomial_wilson_95": null,
+        "episodes": 0,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 0,
+        "simulator_seconds": 0,
+        "success_rate": null,
+        "successes": 0,
+        "vlm_input_valid_tokens": 0,
+        "vlm_prefix_calls": 0,
+        "vlm_prefix_rows": 0,
+        "wall_seconds": 0
+      },
+      "my_harness": {
+        "binomial_wilson_95": null,
+        "episodes": 0,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 0,
+        "simulator_seconds": 0,
+        "success_rate": null,
+        "successes": 0,
+        "vlm_input_valid_tokens": 0,
+        "vlm_prefix_calls": 0,
+        "vlm_prefix_rows": 0,
+        "wall_seconds": 0
+      }
+    },
+    "libero_object": {
+      "authors": {
+        "binomial_wilson_95": null,
+        "episodes": 0,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 0,
+        "simulator_seconds": 0,
+        "success_rate": null,
+        "successes": 0,
+        "vlm_input_valid_tokens": 0,
+        "vlm_prefix_calls": 0,
+        "vlm_prefix_rows": 0,
+        "wall_seconds": 0
+      },
+      "my_harness": {
+        "binomial_wilson_95": null,
+        "episodes": 0,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 0,
+        "simulator_seconds": 0,
+        "success_rate": null,
+        "successes": 0,
+        "vlm_input_valid_tokens": 0,
+        "vlm_prefix_calls": 0,
+        "vlm_prefix_rows": 0,
+        "wall_seconds": 0
+      }
+    },
+    "libero_spatial": {
+      "authors": {
+        "binomial_wilson_95": [
+          0.5005934784344641,
+          0.5393463540276111
+        ],
+        "episodes": 2550,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 5121.700436494779,
+        "simulator_seconds": 11097.069612073246,
+        "success_rate": 0.52,
+        "successes": 1326,
+        "vlm_input_valid_tokens": 35688465,
+        "vlm_prefix_calls": 10858,
+        "vlm_prefix_rows": 244305,
+        "wall_seconds": 28043.200055138674
+      },
+      "my_harness": {
+        "binomial_wilson_95": [
+          0.4982406437271867,
+          0.5370003849158209
+        ],
+        "episodes": 2550,
+        "external_api_calls": 0,
+        "external_api_tokens": 0,
+        "horizon_violations": 0,
+        "policy_seconds": 2483.5511736441404,
+        "simulator_seconds": 11231.388524032664,
+        "success_rate": 0.5176470588235295,
+        "successes": 1320,
+        "vlm_input_valid_tokens": 7987490,
+        "vlm_prefix_calls": 10936,
+        "vlm_prefix_rows": 54680,
+        "wall_seconds": 25553.50070823403
+      }
+    }
+  },
+  "timing_note": "Shared GPU; compare matched coverage and alternate arm order. Wall time includes simulator/reset/processing; policy and simulator clocks reported separately.",
+  "uncertainty_note": "Wilson intervals treat episodes as independent; repeated tasks/states induce correlation. Do not use these alone as evidence of benchmark superiority."
+}

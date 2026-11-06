@@ -1,0 +1,10 @@
+{
+  "description": "My harness for VGAS \u2014 shared visual prefix; frozen-policy source, integration notes, horizons and qualified pilot results.",
+  "existing_repository": false,
+  "main_entrypoint": "my_harness.py",
+  "new_visibility": "private",
+  "owner": "HitarthSS",
+  "paper": "https://arxiv.org/abs/2602.07399",
+  "repository": "updatedVGAS",
+  "requires_paid_api": false
+}

@@ -1,0 +1,7 @@
+{
+  "documented_model_configuration": [
+    "SemyonXu616/VGAS-5-shot at f23261d42938662851e438cee6e25b2ceaa05ceb; frozen SmolVLA proposal policy and released pretrained critic.",
+    "No critic or policy training is performed by this repository."
+  ],
+  "weights_included": false
+}
